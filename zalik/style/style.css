@@ -1,0 +1,30 @@
+body {
+    background-color: #fff;
+  }
+
+  .signin-up-block {
+    background-color: rgb(219, 217, 219);
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+  }
+
+  .signin-up-block button {
+    background-color: rgb(108, 61, 62);
+    width: 100%;
+    border: none;
+  }
+  .navbar-brand{
+      margin-left: 10px;
+  }
+  .navbar{
+      background-color: rgb(219, 217, 219)
+  }
+
+  .signin-up-block h2 
+  {
+text-align: center;
+  }
+  .pusto{
+      margin-bottom: 300px;
+  }
